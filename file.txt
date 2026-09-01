@@ -1,2 +1,3 @@
 today  we are explore git merge conflict.
 and we done first commit.
+now we are update master file because i can.

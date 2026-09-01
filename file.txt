@@ -1,1 +1,2 @@
 today  we are explore git merge conflict.
+and we done first commit.
